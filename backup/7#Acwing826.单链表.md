@@ -1,6 +1,5 @@
 # Acwing826.单链表
 
-
 #### 题解地址：https://www.acwing.com/solution/content/217971/
 -----------
 ## Acwing826.单链表
@@ -33,6 +32,7 @@ def add_to_head(x):
     idx+=1
     
 #将x插到下标是k（idx=k）的点后面
+#idx始终指向当前要删除的地方
 def add(k,x):
     global idx
     e[idx]=x
@@ -41,7 +41,6 @@ def add(k,x):
     idx+=1
 
 #将下标为k的点的下一个点删除
-#idx始终指向当前要删除的地方
 def delete(k):
     tmp=ne[k]#可以不要
     ne[k]=ne[ne[k]]
