@@ -160,5 +160,5 @@ int main()
 ---
 
 * Link: https://github.com/zjljy/Algorithm/issues/7
-* Labels: 
+* Labels: `数据结构`
 * Creation Date: 2023-12-10T15:18:13Z
