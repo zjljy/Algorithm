@@ -23,4 +23,5 @@
 |:-:|:-:|:-:|:-:|
 |1|[hi](https://github.com/zjljy/Algorithm/issues/1)||2023-12-10T12:34:22Z|
 |3|[100. 相同的树](https://github.com/Doragd/Algorithm/issues/3)|`二叉树` `递归`|2023-12-10T12:14:09Z|
-|2|[110. 平衡二叉树](https://github.com/Doragd/Algorithm/issues/2)|`二叉树` `递归`|2023-12-10T10:56:53Z|
+|2|[lalala](https://github.com/zjljy/Algorithm/issues/2)||2023-12-10T12:34:48Z|
+��` `递归`|2023-12-10T10:56:53Z|
