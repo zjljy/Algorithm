@@ -10,6 +10,7 @@
 
 
 
+
 * 2023/12
 
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
@@ -25,6 +26,6 @@
 
 |#|Title|Tag|Date|
 |:-:|:-:|:-:|:-:|
-|7|[Acwing826.单链表](https://github.com/zjljy/Algorithm/issues/7)|`数据结构`|2023-12-10T15:18:13Z|
+|7|[Acwing826.单链表](https://github.com/zjljy/Algorithm/issues/7)|`数据结构` `单链表`|2023-12-10T15:18:13Z|
 |6|[tttest](https://github.com/zjljy/Algorithm/issues/6)|`bug`|2023-12-10T12:45:27Z|
 |5|[githubb](https://github.com/zjljy/Algorithm/issues/5)|`enhancement`|2023-12-10T12:40:11Z|
