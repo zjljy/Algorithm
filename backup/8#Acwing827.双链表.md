@@ -151,5 +151,5 @@ int main()
 ---
 
 * Link: https://github.com/zjljy/Algorithm/issues/8
-* Labels: 
+* Labels: `数据结构`, `算法基础课`
 * Creation Date: 2023-12-11T13:17:14Z
